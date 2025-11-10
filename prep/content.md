@@ -19,7 +19,7 @@ Topic: **Music**
     * Used for connecting microphones and other instruments to a computer
     * DAW (Digital Audio Workstation)
     * [DAW](https://share.google/images/MiJpCw6mHpj3k6S5g)
-    * 
+    * Helps produce, edit, record, and mixing audio 
 
 ## Part B: possible future technology
 * Idea
