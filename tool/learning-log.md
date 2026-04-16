@@ -9,7 +9,7 @@
   *   [Video 1: Umair Butt](https://www.youtube.com/watch?v=Isr8vaIcKlg)
   * [Video 2: TechnoSunita](https://www.youtube.com/watch?v=tcQzwLGzOcA)
   * [Link 1: Documentation](https://wowjs.uk/docs)
-  * [Video 3: Manuel Aguirre M Design] (
+  * [Video 3: Manuel Aguirre M Design](https://www.youtube.com/watch?v=2gfKEkxbRgM)
 * Process with tinkering tool:
 * 
 
