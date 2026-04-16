@@ -5,10 +5,10 @@
 ---
 
 ### /•᷅‎‎•᷄\੭ 4/15/26:
-* Videos/website on how to use it:
-* [Video 1: Umair Butt](https://www.youtube.com/watch?v=Isr8vaIcKlg)
-* [Video 2: TechnoSunita](https://www.youtube.com/watch?v=tcQzwLGzOcA)
-* [Link 1: Documentation](https://wowjs.uk/docs)
+  * Videos/website on how to use it:
+  * [Video 1: Umair Butt](https://www.youtube.com/watch?v=Isr8vaIcKlg)
+  * [Video 2: TechnoSunita](https://www.youtube.com/watch?v=tcQzwLGzOcA)
+  * [Link 1: Documentation](https://wowjs.uk/docs)
 * Process with tinkering tool:
 * 
 
