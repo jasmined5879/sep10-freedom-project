@@ -1,6 +1,8 @@
 # Tool Learning Log
 
-## Tool: **wow js**
+## Tool: **animate.css/wow.js**
+* [Animate.css](https://animate.style/)
+* [wow.js](https://wowjs.uk/)
 
 ---
 
