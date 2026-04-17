@@ -10,6 +10,7 @@
   * [Video 2: TechnoSunita](https://www.youtube.com/watch?v=tcQzwLGzOcA)
   * [Link 1: Documentation](https://wowjs.uk/docs)
   * [Video 3: Manuel Aguirre M Design](https://www.youtube.com/watch?v=2gfKEkxbRgM)
+  * [Link 2: Github wow js](https://github.com/graingert/wow)
 * Process with tinkering tool:
 * 
 
