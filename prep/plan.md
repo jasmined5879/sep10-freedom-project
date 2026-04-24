@@ -8,7 +8,7 @@
 * `#ABC123`
 
 ## Fonts
-* [Text](URL)
+* [Nanum Gothic Coding]([URL](https://fonts.google.com/share?selection.family=Nanum+Gothic+Coding))
 
 ## Timeline
 
