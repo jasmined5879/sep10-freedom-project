@@ -19,10 +19,10 @@
 
 #### MVP
 
-* Task/Timeline
-  today and friday: Figure out how to code.
-Saturday: Hopefully finish it.
-sunday: add extra stuff if needed. 
+ Task/Timeline
+* today and friday: Figure out how to code.
+* Saturday: Hopefully finish it.
+* sunday: add extra stuff if needed. 
 
 #### Beyond MVP
 
