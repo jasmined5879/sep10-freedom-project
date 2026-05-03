@@ -1,0 +1,50 @@
+
+body {
+    font-family: "Nanum Gothic Coding", monospace; */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;  /* Light background */
+    text-align: center;
+}
+
+
+header {
+    background-color: #4CAF50;  /* Green background */
+    color: white;
+    padding: 20px;
+}
+
+/* Default h1 font size */
+h1 {
+    font-size: 4vw;  /* Base font size relative to viewport width */
+}
+
+/* Section Styles */
+section {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+/* Responsive Design for Tablets (max-width 768px) */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 6vw;  /* Larger font size for tablets */
+    }
+
+    section {
+        margin: 10px;  /* Adjust section margin */
+    }
+}
+
+/* Responsive Design for Mobile (max-width 480px) */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 8vw;  /* Even larger font size for small devices */
+    }
+
+    section {
+        margin: 5px;  /* Adjust section margin */
+    }
+}
