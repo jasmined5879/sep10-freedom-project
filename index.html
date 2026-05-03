@@ -1,29 +1,47 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Music Heading</title>
+    <style>
+        /* Basic body styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
 
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" type="text/css" />
-        <style>
-            /* CSS */
-            
-        </style>
-        
-        <title>Title</title>
-    </head>
-    <body>
-        <!-- HTML -->
-        
-        
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- <script src="script.js"></script> -->
-        <script>
-            // JS
-            
-            
-        </script>
-    </body>
+        /* h1 Styling */
+        h1 {
+            font-size: 4vw; /* Base font size adjusts with viewport width */
+            color: #333;
+            margin: 0;
+        }
+
+        /* Responsive Design for smaller devices */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 6vw; /* Larger font size for tablets */
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 8vw; /* Even larger font size for mobile */
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Music</h1>
+
+</body>
 </html>
