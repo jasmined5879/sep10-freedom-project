@@ -1,15 +1,14 @@
-
 body {
     font-family: "Nanum Gothic Coding", monospace; */
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;  /* Light background */
+    background-color: #BEA8AA;  /* Light background */
     text-align: center;
 }
 
 
 header {
-    background-color: #4CAF50;  /* Green background */
+    background-color:#D4CBE5;  /* Green background */
     color: white;
     padding: 20px;
 }
@@ -22,7 +21,7 @@ h1 {
 /* Section Styles */
 section {
     padding: 20px;
-    background-color: #fff;
+    background-color: #CFC7D2;
     margin: 20px;
     border-radius: 8px;
 }
