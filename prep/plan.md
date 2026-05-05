@@ -39,7 +39,7 @@
 
 | Name | Glows | Grows |
 | wen xi| i like how this website is responsive and how your topic moves | I would like to see more images in your website and maybe a background-color |
-|  |  |  |
+|Miles Post  | I like how you added emojis and made the your text bounce. | I think that you could add more color through adding things like images and a background color. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
