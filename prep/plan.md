@@ -38,7 +38,7 @@
 #### Peer Feedback 
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| wen xi| i like how this website is responsive and how your topic moves | I would like to see more images in your website and maybe a background-color |
 |  |  |  |
 |  |  |  |
 |  |  |  |
