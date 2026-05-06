@@ -1,6 +1,6 @@
 
 body {
-  font-family: "Lobster Two", sans-serif;
+ font-family: "Nanum Gothic Coding", monospace;
     margin: 0px;
     padding: 0px;
     background-color: #BEA8AA;  /* Light background */
@@ -9,7 +9,7 @@ body {
 
 
 header {
-    background-color:#D4CBE5;  /* Green background */
+    background-color:#D4CBE5;  
     color: white;
     padding: 20px;
 }
