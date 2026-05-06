@@ -1,11 +1,10 @@
-.nanum-gothic-coding-regular {
-  font-family: "Nanum Gothic Coding", monospace;
+
   font-weight: 400;
   font-style: normal;
 }
 
 body {
-    font-family: "Nanum Gothic Coding", monospace; */
+  font-family: "Lobster Two", sans-serif;
     margin: 0px;
     padding: 0px;
     background-color: #BEA8AA;  /* Light background */
