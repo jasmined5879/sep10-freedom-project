@@ -4,6 +4,10 @@
   font-style: normal;
 }
 
+p {
+  font-family: "Nanum Gothic Coding", monospacce;
+}
+
 body {
     font-family: "Nanum Gothic Coding", monospace; */
     margin: 0px;
