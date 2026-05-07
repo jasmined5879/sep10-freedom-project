@@ -3,7 +3,7 @@ body {
  font-family: "Nanum Gothic Coding", monospace;
     margin: 0px;
     padding: 0px;
-    background-color: #BEA8AA;  /* Light background */
+    background-image: linear-gradient(#5E0B15, #2D080A,#1B5299);/
     text-align: center;
 }
 
