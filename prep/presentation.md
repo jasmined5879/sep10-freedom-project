@@ -4,13 +4,20 @@
 * Have you ever wondered how the songs you listen to on your daily life were made? And how they are shared for the whole world to love? Well now you can! ^^
 
 ## Product
-* [My Freedom Project](https://jasmined5879.github.io/sep10-freedom-project/)
+* GIF of my project
 
 ## Process
-* 
+* I was searching alot for music technology
+* It was so hard to look for hardware that no one has already heard and I am pretty sure I did add one hardware for music that atleast ONE person knows already in my project T T
+* I was trying to figure out how to animate the words and images but I only figured out how to do the title and the others so I was fine with it and scrapped the idea of animating the images.
+* The wireframe I struggled alot (probably because I was not paying attention) I couldn't seem to get it to look organized but in the last minute I did so now it looks clean and organized. 
 
 ## Conclusion
-* 
+* I really enjoyed working on my project and I really liked how it came out despite how much I could've added, hope you enjoyed my small presentation thank you ^^
+*  [My Freedom Project](https://jasmined5879.github.io/sep10-freedom-project/)
+
+* The most difficult thing for me was the reasearching part
+* I should've done stuff on time or early 
 
 <!-- EXAMPLE
 
