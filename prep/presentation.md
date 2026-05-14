@@ -1,10 +1,10 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Have you ever wondered how the songs you listen to on your daily life were made? And how they are shared for the whole world to love? Well now you can! ^^
 
 ## Product
-* 
+* [My Freedom Project](https://jasmined5879.github.io/sep10-freedom-project/)
 
 ## Process
 * 
